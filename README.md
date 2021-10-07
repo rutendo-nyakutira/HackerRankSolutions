@@ -1,2 +1,7 @@
 # HackerRankSolutions
-Hackerrank Solutions
+## Languages
+   + Java
+   + C++
+   + Python
+   + SQL
+   + Bash
