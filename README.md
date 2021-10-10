@@ -1,6 +1,6 @@
 # HackerRankSolutions
 ## Languages
-   + Java
+   + Java - currently 2 stars
    + C++
    + Python
    + SQL
