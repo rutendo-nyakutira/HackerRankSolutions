@@ -1,6 +1,6 @@
 # HackerRankSolutions
 ## Languages
    + Java - currently 2 stars
-   + C++
-   + Python
-   + Bash
+   + C++ - currently 1 star
+   + Python - currrently 1 star
+   + Bash - 4/65 challenges solved
